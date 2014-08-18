@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context docBase="E:\environment\apache-tomcat-7.0.41\solr\solr.war" reloadable="true" >    
+    <Environment name="solr/home" type="java.lang.String" 
+		value="E:\environment\apache-tomcat-7.0.41\solr" override="true" />    
+</Context>  
